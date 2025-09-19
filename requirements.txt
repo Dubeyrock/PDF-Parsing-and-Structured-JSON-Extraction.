@@ -1,0 +1,4 @@
+pdfplumber
+pymupdf
+camelot-py
+pandas
